@@ -5,49 +5,49 @@ This repository contains a general review of the articles from "https://develope
 Apple Store Review Guidelines
 A summary of the rules taken from "https://developer.apple.com/app-store/review/guidelines/"
 Introduction <br>
-	• Guiding Principle in App Store
-		○ Safe User Experience 
-		○ Great opportunity for Devs to be successful
-	• App must comply with ad networks, analytics services, & third-party SDKs
-	• Entitlements are given in special cases
-		○ Ex CarPlay Audio, HyperVisor, Privileged File Operations
-			§ Review docs @developer.apple.com to learn more
-	• Make sure you follow this checklist before submitting
-		○ Test for crashes/bugs
-		○ Complete/accurate metadata
-		○ Up to date contact info
-		○ Provide active demo account/login info + anything else that may be needed for app review
-			§ Ex. Login credentials/sample QR Code
-		○ Backend services accessible during review
-		○ Includes detailed explanations in App review notes for
-			§ Non-obvious features
-			§ In-app purchases
-			§ Supporting documentation where appropriate
-		○ App follows guidance in 
-			§ Dev Guidelines
-				□ UIKit
-				□  Appkit,
-				□ WatchKit
-				□  App Extensions 
-				□ iOS Data Storage Guidelines
-				□ Apple File System
-				□ App Store Connect Help
-				□ Developer Account Help
-			§ Design Guidelines
-				□ Human Interface Guidelines
-			§ Brand & Marketing Guidelines
-				□ Marketing Resources & Identity Guidelines
-				□ Apple Pay Marketing Guidelines
-				□ Add to Apple Wallet Guidelines
-				□ Guidelines for Using Apple Trademarks & Copyrights
-Safety
-	• Objectionable Contend
-		○ Content that's offensive, insensitive, upsetting, intended to disgust, poor taste, creepy
-	• User Generated Content
-		○ Apps w/user generated content or services must include
-			§ Method to filter objectionable material from being posted to app
-			§ Mechanism to report offensive content & timely responses to concerns
-			§ Ability to block abusive users from service
+	• Guiding Principle in App Store <br>
+		○ Safe User Experience <br>
+		○ Great opportunity for Devs to be successful<br>
+	• App must comply with ad networks, analytics services, & third-party SDKs<br>
+	• Entitlements are given in special cases<br>
+		○ Ex CarPlay Audio, HyperVisor, Privileged File Operations<br>
+			§ Review docs @developer.apple.com to learn more<br>
+	• Make sure you follow this checklist before submitting<br>
+		○ Test for crashes/bugs<br>
+		○ Complete/accurate metadata<br>
+		○ Up to date contact info<br>
+		○ Provide active demo account/login info + anything else that may be needed for app review<br>
+			§ Ex. Login credentials/sample QR Code<br>
+		○ Backend services accessible during review<br>
+		○ Includes detailed explanations in App review notes for<br>
+			§ Non-obvious features<br>
+			§ In-app purchases<br>
+			§ Supporting documentation where appropriate<br>
+		○ App follows guidance in <br>
+			§ Dev Guidelines<br>
+				□ UIKit<br>
+				□  Appkit,<br>
+				□ WatchKit<br>
+				□  App Extensions <br>
+				□ iOS Data Storage Guidelines<br>
+				□ Apple File System<br>
+				□ App Store Connect Help<br>
+				□ Developer Account Help<br>
+			§ Design Guidelines<br>
+				□ Human Interface Guidelines<br>
+			§ Brand & Marketing Guidelines<br>
+				□ Marketing Resources & Identity Guidelines<br>
+				□ Apple Pay Marketing Guidelines<br>
+				□ Add to Apple Wallet Guidelines<br>
+				□ Guidelines for Using Apple Trademarks & Copyrights<br>
+Safety<br>
+	• Objectionable Content<br>
+		○ Content that's offensive, insensitive, upsetting, intended to disgust, poor taste, creepy<br>
+	• User Generated Content<br>
+		○ Apps w/user generated content or services must include<br>
+			§ Method to filter objectionable material from being posted to app<br>
+			§ Mechanism to report offensive content & timely responses to concerns<br>
+			§ Ability to block abusive users from service<br>
 			§ Published contact info so users can easily reach you
 	• Kids Category
 		○ A way for people to find apps for children
